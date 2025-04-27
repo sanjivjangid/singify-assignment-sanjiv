@@ -2,15 +2,23 @@
 
 # assignment
 
-## start server
+### start server
+```sh
 cd server
-npm ptart
+npm start
+```
 
-## start react app
+### start react app
+```sh
 npm run dev
+```
 
-## run test 
+### run test 
+```sh
 npm run test
+```
 
-## run eslint
+### run eslint
+```sh
 npm run lint
+```
