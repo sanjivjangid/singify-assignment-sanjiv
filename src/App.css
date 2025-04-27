@@ -1,0 +1,9 @@
+@layer theme, base, antd, components, utilities;
+
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #df00a0;
+  --color-list-selected: #df00a0; 
+}
+
