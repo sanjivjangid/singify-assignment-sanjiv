@@ -5,11 +5,13 @@
 ### start server
 ```sh
 cd server
+npm install
 npm start
 ```
 
 ### start react app
 ```sh
+npm install
 npm run dev
 ```
 
